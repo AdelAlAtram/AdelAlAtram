@@ -1,10 +1,15 @@
-- 💥 Hi, I’m @AdelAlAtram
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+ Hi, I’m Adel 💥
+- 👀 I’m interested in learning languages
+- 🌱 I’m currently learning Full-stack development
 - 📫 How to reach me ...
-https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow
-<!---
-AdelAlAtram/AdelAlAtram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <h2>Glad to see you here</h2>
+  <p>My name is adel and I am a junior full-stack developer </p>
+  <p>I'm looking for a job</p>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
+
+
