@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adel<br><br>
-A passionate full-stack developer from Jordan
+A programmer with a strong foundation in web development.
 </h1>
 <div align="center"> 
   <img alt="Coder GIF"  height=50% width=50% src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-
 </div>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelalatram&label=Profile%20views&color=0e75b6&style=flat" alt="adelalatram" /> </p>
 
 
-- 🔭 I’m currently working on **new project**
+- 🔭 I’m currently working on **CARD GAME**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **FULL-STACK DEVELOPMENT**
 
 - 💬 Ask me about **MERN**
 
