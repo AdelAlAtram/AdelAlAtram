@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adel<br><br>
-     A programmer with a strong foundation in web development.
-</h1>
+<h1 align="center">Hi 👋, I'm Adel</h1>
+<h2 align="center">A programmer with a strong foundation in web development</h2>
 <div align="center"> 
   <img alt="Coder GIF"  height=50% width=50% src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </div>
@@ -9,11 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelalatram&label=Profile%20views&color=0e75b6&style=flat" alt="adelalatram" /> </p>
 
 
-- 🔭 I’m currently working on **CARD GAME**
+- 🔭 I’m currently working on **MY PETS**
 
 - 🌱 I’m currently learning **FULL-STACK DEVELOPMENT**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN/PERN**
 
 - 📫 How to reach me **adelaaymann@gmail.com**
 
